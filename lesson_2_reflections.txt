@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+ - The .git folder is generating, with the metadata needed to start tracking all the changes in the files. The files are needed, so it's important to init the folder. 
