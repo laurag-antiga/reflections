@@ -1,6 +1,6 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
- - When you have to share the content or collaborate with other people. Problem solved. Change on the branch to merge.
+ - When you have to share the content or collaborate with other people. Problem solved. Problem solved again.
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
@@ -14,4 +14,8 @@ Describe the differences between forks, clones, and branches. When would you use
  What is the benefit of having a copy of the last known state of the remote stored locally?
 
   - That way you can make changes on the most recent version of the files, if you're collaborating with other people and they're introducing some changes on the server files. If you didn't, you may introduce the same changes they did or it might be more difficult to merge the files later, so it would be in both cases a waste of time. 
+
+ How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+  - I used to word in google Docs, which is definitely easier to use than gitHub, and it also allows to see last changes of the collaborators. But it's definetely not useful for programms edditing, and only latest changes can be seen, so there's no way (that I know) to go back to an older version if lots of major changes were introduced but we were'nt satisfied with them.
 
